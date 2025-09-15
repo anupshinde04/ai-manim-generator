@@ -1,0 +1,17 @@
+{
+  "Data Structures": {
+    "Stack": "A stack is a linear data structure that follows LIFO (Last In First Out).",
+    "Queue": "A queue is a linear data structure that follows FIFO (First In First Out).",
+    "Linked List": "A linked list is a linear data structure where each element is a separate object called a node.",
+    "Binary Tree": "A binary tree is a hierarchical data structure in which each node has at most two children."
+  },
+  "Algorithms": {
+    "Binary Search": "Binary search is an efficient algorithm for finding an item in a sorted list.",
+    "Merge Sort": "Merge sort is a divide and conquer algorithm that splits the array and merges them in sorted order.",
+    "Dijkstra": "Dijkstra's algorithm finds the shortest path between nodes in a graph."
+  },
+  "Programming Concepts": {
+    "Recursion": "Recursion is a method where the solution to a problem depends on solutions to smaller instances of the same problem.",
+    "Dynamic Programming": "Dynamic programming is a technique for solving complex problems by breaking them down into simpler subproblems and storing their solutions."
+  }
+}
