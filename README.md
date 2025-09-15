@@ -35,6 +35,11 @@ This project demonstrates an AI-assisted system for generating educational conte
 6. **Optional animation**  
    If needed, generate a visual animation using Manim to illustrate the concept.
 
+```powershell
+manim -pql src\manim_generator.py ConceptAnimation
+```
+
+
 7. **Done**  
    Show the generated script and slides to the user.
 
